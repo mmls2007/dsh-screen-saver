@@ -20,11 +20,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OWNER/dsh-screen-saver.git"
+    "url": "git+https://github.com/mmls2007/dsh-screen-saver.git"
   },
-  "homepage": "https://github.com/OWNER/dsh-screen-saver#readme",
+  "homepage": "https://github.com/mmls2007/dsh-screen-saver#readme",
   "bugs": {
-    "url": "https://github.com/OWNER/dsh-screen-saver/issues"
+    "url": "https://github.com/mmls2007/dsh-screen-saver/issues"
   },
   "keywords": [
     "dsh",
