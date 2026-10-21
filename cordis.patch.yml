@@ -1,0 +1,5 @@
+# dsh-screen-saver bundle 层：插入屏幕常亮插件行。
+- insert:
+    - id: dsh-screen-saver
+      name: 'dsh-screen-saver'
+      config: {}
