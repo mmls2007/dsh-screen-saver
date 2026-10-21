@@ -1,0 +1,7 @@
+{
+  "nav": "Keep screen on",
+  "meta": {
+    "title": "Keep screen on",
+    "description": "Adds a dedicated \"Keep screen on\" section in Settings; enables a screen wake lock via the Screen Wake Lock API."
+  }
+}
