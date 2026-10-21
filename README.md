@@ -1,5 +1,7 @@
 # dsh-screen-saver
 
+[English](README.en.md) | 简体中文
+
 给 [DeepSeek Harness](https://github.com/deepseek-ai)（DSH / DSHM）用的**屏幕常亮**插件：在设置页提供一个独立分区，会话输入框上方 dock 提供一个快捷胶囊，一键让屏幕保持常亮。
 
 基于 Web 标准 [Screen Wake Lock API](https://w3c.github.io/screen-wake-lock/)（`navigator.wakeLock`），不需要任何原生代码、不申请系统权限、不改动上游。
