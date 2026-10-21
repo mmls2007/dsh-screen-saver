@@ -1,0 +1,4 @@
+node_modules/
+.virtfs_metadata/
+*.log
+.DS_Store
