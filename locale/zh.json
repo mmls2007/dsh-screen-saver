@@ -1,0 +1,7 @@
+{
+  "nav": "屏幕常亮",
+  "meta": {
+    "title": "屏幕常亮",
+    "description": "在设置页提供独立的「屏幕常亮」分区；开启后通过 Screen Wake Lock API 保持屏幕常亮。"
+  }
+}
